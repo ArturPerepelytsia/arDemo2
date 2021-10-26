@@ -114,7 +114,6 @@
 				42A35281E9DE603AECF46609 /* Pods-arDemo2-arDemo2Tests.debug.xcconfig */,
 				10A960B47E37A3C6DBCA71E2 /* Pods-arDemo2-arDemo2Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -485,6 +484,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VZVA6WJLV9;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = arDemo2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,6 +511,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VZVA6WJLV9;
 				INFOPLIST_FILE = arDemo2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
